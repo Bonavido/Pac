@@ -7,10 +7,10 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>PhoneGap Example</name>
+  <name>Ортография.рф</name>
 
   <description>
-      An example for phonegap build docs.
+      Расписание.
   </description>
 
   <author href="http://ортография.рф" email="ortographia@ортография.рф">
